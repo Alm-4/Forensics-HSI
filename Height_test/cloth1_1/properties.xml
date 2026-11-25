@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+ <property name="prefix"></property>
+ <property name="countervalue">0004</property>
+ <property name="timestamp">2026-11-25_02-48-31</property>
+ <property name="name">cloth1_1</property>
+ <property name="namingformat">prefix_name</property>
+ <property name="timestampformat">!%Y-%m-%d_%H-%M-%S</property>
+</properties>
