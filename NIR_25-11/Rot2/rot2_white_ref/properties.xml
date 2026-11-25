@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+ <property name="namingformat">prefix_name</property>
+ <property name="prefix">rot2</property>
+ <property name="timestamp">2026-11-24_22-14-19</property>
+ <property name="timestampformat">!%Y-%m-%d_%H-%M-%S</property>
+ <property name="name">white_ref</property>
+ <property name="countervalue">0004</property>
+</properties>

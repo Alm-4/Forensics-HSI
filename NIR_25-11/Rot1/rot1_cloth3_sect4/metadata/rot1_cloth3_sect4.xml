@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="rot1_cloth3_sect4.xsl"?>
+<properties><header><key field="sensor type">FX17e</key>
+        <key field="sensor id">4210397</key>
+        <key field="frame rate">55.00004196167</key>
+        <key field="integration time">18</key>
+        <key field="samples">640</key>
+        <key field="active bands">224</key>
+        <key field="spatial binning">1</key>
+        <key field="spectral binning">1</key>
+        <key field="frames recorded">733</key>
+        <key field="frames dropped">0</key>
+        <key field="data format">BIL</key>
+        <key field="date">2026-11-24</key>
+        <key field="date text">Tuesday, November 24, 2026</key>
+        <key field="time">21:52:48</key>
+        <key field="calibration pack">C:/Program Files/Specim/Lumo - Scanner/2020_586/Calibrations/Spectral/4210397_20220818_FX_calpack.scp</key>
+    </header>
+    <userdefined><key field="sample name">cloth3_sect4</key>
+        <key field="operator"></key>
+        <key field="description"></key>
+        <key field="sensor temperature">50.079559326172</key>
+        <key field="sensor prefix">rot1</key>
+    </userdefined>
+</properties>
