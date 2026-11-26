@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+ <file type="darkref" extension="raw">capture/DARKREF_rot3_cloth5_3.raw</file>
+ <file type="darkref" extension="hdr">capture/DARKREF_rot3_cloth5_3.hdr</file>
+ <file type="capture" extension="raw">capture/rot3_cloth5_3.raw</file>
+ <file type="capture" extension="hdr">capture/rot3_cloth5_3.hdr</file>
+ <file type="properties" extension="xml">metadata/rot3_cloth5_3.xml</file>
+ <file type="properties" extension="xsl">metadata/rot3_cloth5_3.xsl</file>
+ <file type="preview" extension="png">rot3_cloth5_3.png</file>
+</manifest>

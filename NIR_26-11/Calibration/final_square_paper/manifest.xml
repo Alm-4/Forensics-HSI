@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+ <file extension="raw" type="darkref">capture/DARKREF_final_square_paper.raw</file>
+ <file extension="hdr" type="darkref">capture/DARKREF_final_square_paper.hdr</file>
+ <file extension="raw" type="capture">capture/final_square_paper.raw</file>
+ <file extension="hdr" type="capture">capture/final_square_paper.hdr</file>
+ <file extension="xml" type="properties">metadata/final_square_paper.xml</file>
+ <file extension="xsl" type="properties">metadata/final_square_paper.xsl</file>
+ <file extension="png" type="preview">final_square_paper.png</file>
+</manifest>

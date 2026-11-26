@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+ <property name="prefix">final</property>
+ <property name="countervalue">0004</property>
+ <property name="timestampformat">!%Y-%m-%d_%H-%M-%S</property>
+ <property name="namingformat">prefix_name</property>
+ <property name="name">board</property>
+ <property name="timestamp">2026-11-25_21-20-40</property>
+</properties>

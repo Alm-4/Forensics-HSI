@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+ <property name="timestamp">2026-11-25_22-56-37</property>
+ <property name="name">cloth6_3</property>
+ <property name="timestampformat">!%Y-%m-%d_%H-%M-%S</property>
+ <property name="namingformat">prefix_name</property>
+ <property name="prefix">rot2</property>
+ <property name="countervalue">0004</property>
+</properties>
