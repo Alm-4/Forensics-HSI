@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <file type="raw" extension="hdr">capture/652.hdr</file>
+    <file type="raw" extension="raw">capture/652.raw</file>
+    <file type="darkref" extension="hdr">capture/DARKREF_652.hdr</file>
+    <file type="darkref" extension="raw">capture/DARKREF_652.raw</file>
+    <file type="whitedarkref" extension="hdr">capture/WHITEDARKREF_652.hdr</file>
+    <file type="whitedarkref" extension="raw">capture/WHITEDARKREF_652.raw</file>
+    <file type="whiteref" extension="hdr">capture/WHITEREF_652.hdr</file>
+    <file type="whiteref" extension="raw">capture/WHITEREF_652.raw</file>
+    <file type="metadata" extension="xml">metadata/652.xml</file>
+    <file type="reflectance" extension="dat">results/REFLECTANCE_652.dat</file>
+    <file type="reflectance" extension="hdr">results/REFLECTANCE_652.hdr</file>
+    <file type="reflectance" extension="png">results/REFLECTANCE_652.png</file>
+    <file type="rgbbackground" extension="png">results/RGBBACKGROUND_652.png</file>
+    <file type="rgbscene" extension="png">results/RGBSCENE_652.png</file>
+    <file type="rgbviewfinder" extension="png">results/RGBVIEWFINDER_652.png</file>
+    <file type="preview" extension="png">652.png</file>
+</manifest>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <device>
+        <key field="sensor_type" readonly="0">SPECIM IQ</key>
+        <key field="serial_no" readonly="0">190-1100914</key>
+        <key field="sensor_id" readonly="0">XSB33870158</key>
+        <key field="firmware" readonly="0">2019.05.31.1
+</key>
+    </device>
+    <info>
+        <key field="description" readonly="0">The spectral image is recorded in the Default Recording Mode
+</key>
+        <key field="application" readonly="0">Default Recording Mode</key>
+        <key field="WR_mode" readonly="0">Custom</key>
+        <key field="save_viewfinder" readonly="0">true</key>
+        <key field="save_scene_image" readonly="0">true</key>
+        <key field="save_reflectance_data" readonly="0">true</key>
+        <key field="save_processing_flow" readonly="0">true</key>
+        <key field="thumbnail_result" readonly="0">637.png</key>
+        <key field="quick_validation" readonly="0">true</key>
+        <key field="calibration_check" readonly="0">ok</key>
+    </info>
+    <dataset>
+        <key field="datetime" readonly="0">27 Nov 2026 15:37:04 +0000</key>
+        <key field="latitude" readonly="0">0.00000000</key>
+        <key field="longitude" readonly="0">0.00000000</key>
+        <key field="datacube_angle" readonly="0">-90</key>
+        <key field="integration_time" readonly="0">286</key>
+    </dataset>
+</properties>
